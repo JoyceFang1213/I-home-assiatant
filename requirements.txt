@@ -1,0 +1,7 @@
+Flask==1.1.2
+board==1.0
+firebase==3.0.1
+picamera==1.13
+Pillow==8.2.0
+protobuf==3.17.3
+RPi==0.0.1
